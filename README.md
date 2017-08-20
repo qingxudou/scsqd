@@ -1,1 +1,1 @@
- t # scsqd Very happy to start to use Git. I hope I can learn a lot through Git and contribute a lot to Git. Version control is really important for a guy with bad memory. Haha
+ t # scsqd These are some files for classification between dogs and cats. The images of dogs and cats are saved separately in two folders. Modify the paths of the folders in the code accordingly.
