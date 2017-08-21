@@ -5,7 +5,7 @@ Created on Sun Jul 30 19:42:55 2017
 @author: qxd
 """
 
-import tensorfolw as tf
+import tensorflow as tf
 import data_preparation
 import model_generation
 import numpy as np
